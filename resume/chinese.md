@@ -13,3 +13,6 @@
 4. 使用 vue-router 进行路由状态管理
 5. 使用 vue-cli 进行快速项目搭建
 6. 使用 vue 进行通用组件开发
+7. 使用 angular-cli
+8. Typescript
+# 个人经历
