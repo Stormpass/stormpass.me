@@ -2,7 +2,7 @@
 + 姓名：冯云松
 + 学历：全日制本科
 + 电话：17613451552
-+ Github [Stormpass](https://github.com/Stormpass)
++ Github： [Stormpass](https://github.com/Stormpass)
 + 项目经验: 两年
 + 毕业院校：安阳师范学院
 + 毕业时间：2016年7月
@@ -58,3 +58,11 @@
 ## 团队合作
 + 善于沟通，表达能力强，逻辑清晰
 + 项目架构时善于团队分工
+## 知识来源
++ [Vue](https://cn.vuejs.org/)
++ [Angular](https://angularjs.org/)
++ [Flutter](https://flutter.io/)
++ [Github](https://github.com)
++ [阮一峰的个人网站](http://www.ruanyifeng.com)
++ [张鑫旭的个人主页](https://www.zhangxinxu.com/)
++ [华北水利水电大学图书馆](http://www.ncwu.edu.cn/)
