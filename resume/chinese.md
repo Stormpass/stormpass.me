@@ -14,7 +14,8 @@
 5. 使用 vue-cli 进行快速项目搭建
 6. 使用 vue 进行通用组件开发
 7. 使用 angular-cli
-8. 其他 Typescript superagent mint-ui element-ui underscore jquery 微信web应用 微信企业应用 微信小程序
+8. 其他 Typescript superagent mint-ui element-ui underscore jquery 
+9. 微信 微信web应用 微信企业应用 微信小程序
 ## 主要教育经历
 [安阳师范学院](http://www.aynu.edu.cn/) 2012年9月 - 2016年7月
 ## 主要工作经历
