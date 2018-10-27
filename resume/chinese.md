@@ -10,7 +10,7 @@
 ## 个人技能
 
 + 独立完成前端开发任务
-+ 有效组织前端团队协作
++ 有效进行团队协作开发
 + 图表 Chart.js
 + 使用 vue 快速开发产品  
 + 使用 vuex 进行状态管理  
@@ -21,7 +21,7 @@
 + 微信 微信web应用 微信企业应用 微信小程序 
 + UI框架 mint-ui element-ui 
 + 函数库 underscore jquery superagent
-+ 使用原生javascript进行项目开发  
++ 使用原生 JavaScript 进行项目开发  
 
 ## 主要教育经历
 
