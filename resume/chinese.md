@@ -70,6 +70,11 @@
 2017-8 - 2017-10 | 消防局内网 | 开封市消防局内部网站 | 项目建立，页面开发| 独立  
 2017-6 - 2017-8 | 物业管理应用 | 物业辅助管理 |微信js-sdk的相关开发 | 独立 
 
+## 开源
+
++ [LinkDOM](https://github.com/Stormpass/linkDOM) 快速连接任意dom ，快速创建流程图  [项目地址](https://github.com/Stormpass/linkDOM)
++ [bling.js](https://github.com/Stormpass/bling) 简单易用的周期性动画工具  [项目地址](https://github.com/Stormpass/bling)
+
 ## 个人优势
 
 + 能够快速开发产品同时保证代码的健壮性  
