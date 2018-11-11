@@ -74,6 +74,8 @@
 
 + [LinkDOM](https://github.com/Stormpass/linkDOM) 快速连接任意dom ，快速创建流程图  [项目地址](https://github.com/Stormpass/linkDOM)
 + [bling.js](https://github.com/Stormpass/bling) 简单易用的周期性动画工具  [项目地址](https://github.com/Stormpass/bling)
++ [werge](https://www.npmjs.com/package/werge) 更新对象 node 或者 浏览器 [npm](https://www.npmjs.com/package/werge)
++ [image-compresser](https://www.npmjs.com/package/image-compresser) 图片压缩工具 浏览器 [npm](https://www.npmjs.com/package/image-compresser)
 
 ## 个人优势
 
