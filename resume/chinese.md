@@ -3,7 +3,6 @@
 + 学历：全日制本科  
 + 电话：17613451552  
 + Github： [Stormpass](https://github.com/Stormpass)  
-+ 项目经验: web 两年半 vue 一年半  
 + 毕业院校：安阳师范学院  
 + 毕业时间：2016年7月  
 
